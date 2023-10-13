@@ -34,7 +34,7 @@ struct SettingsView: View {
             Link("License",
                  destination: URL(string: "https://github.com/PeterTakahashi/openai-translator-swiftui/blob/main/LICENSE")!).foregroundColor(.primary)
             Link("Privacy Policy",
-                 destination: URL(string: "https://raw.githubusercontent.com/PeterTakahashi/openai-translator-swiftui/main/privacy-policy.md?token=GHSAT0AAAAAACA5G5RUX7F6U4ST4CLUPWIAZJJQDOQ")!).foregroundColor(.primary)
+                 destination: URL(string: "https://raw.githubusercontent.com/PeterTakahashi/openai-translator-swiftui/main/privacy-policy.md?token=GHSAT0AAAAAACA5G5RUOLUME3QDITIH5V7OZJJQJMQ")!).foregroundColor(.primary)
             Link("Source Code on Github",
                  destination: URL(string: "https://github.com/PeterTakahashi/openai-translator-swiftui")!).foregroundColor(.primary)
         }
